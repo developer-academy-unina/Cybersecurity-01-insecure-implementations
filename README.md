@@ -1,9 +1,15 @@
-# Insecure Security UX Demos
+<div align="center">
+  <h3>Workshop - Cybersecurity 01</h3>
+  <h1>Insecure Security UX Demos</h1>
+  <br />
+</div>
+
+## About
 
 This project contains deliberately **insecure implementations** of common app UX flows.  
 Each screen demonstrates a common mistake that makes an app feel or be insecure.
 
-## Screens
+### Screens
 
 - **Login**
 
