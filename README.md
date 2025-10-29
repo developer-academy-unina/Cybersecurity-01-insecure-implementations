@@ -1,15 +1,45 @@
 <div align="center">
-  <h3>Workshop - Cybersecurity 01</h3>
-  <h1>Insecure Security UX Demos</h1>
+  <h3>Workshop</h3>
+  <h1>
+      Insecure Security UX Demos<br />
+  </h1>
   <br />
 </div>
 
+<br />
+
+<p align="center">
+  <a href="#" alt="Version">
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" />
+  </a>
+  <a href="#" alt="XCode Version">
+    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=26.0&color=brightgreen&logo=xcode" />
+  </a>        
+  <a href="#" alt="Swift Version">
+    <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=6.0&color=brightgreen&logo=swift" />
+  </a>
+  <a href="#" alt="Framework used">
+    <img src="https://img.shields.io/static/v1?label=Framework%20used&message=SwiftUI&color=brightgreen&logo=swift">
+  </a>          
+</p>
+
+---
+
 ## About
 
-This project contains deliberately **insecure implementations** of common app UX flows.  
-Each screen demonstrates a common mistake that makes an app feel or be insecure.
+In this workshop, you will explore how poor design choices in user experience (UX) can lead to serious security vulnerabilities.
 
-### Screens
+This project contains deliberately **insecure implementations** of common app UX flows. Each screen demonstrates a common mistake that makes an app feel or be insecure.
+
+
+## Learning Goals
+
+In this workshop, you will:
+- Understand how bad UX choices can undermine security
+- Recognize red flags in login flows, permissions, error handling, destructive actions, and code entry
+
+
+## Screens Demonstrated
 
 - **Login**
 
@@ -34,7 +64,10 @@ Each screen demonstrates a common mistake that makes an app feel or be insecure.
   - One-time code entered in a plain `TextField`
   - Digits visible, no autofill support, easy to shoulder-surf
 
-## Learning Goals
+## Getting Started
 
-- Understand how bad UX choices can undermine security
-- Recognize red flags in login flows, permissions, error handling, destructive actions, and code entry
+### Installation
+
+To get access to the project created during the workshop, you can [download the repository as a zip file](https://github.com/developer-academy-unina/Cybersecurity-01-insecure-implementations/archive/refs/heads/main.zip) and access the project.
+
+<br />
