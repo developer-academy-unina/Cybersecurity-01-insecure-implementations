@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Workshop</h3>
   <h1>
-      Insecure Security UX Demos<br />
+      Cybersecurity 01 - Insecure Security UX Demos<br />
   </h1>
   <br />
 </div>
