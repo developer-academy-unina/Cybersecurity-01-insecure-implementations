@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Workshop</h3>
+  <h3>Demo</h3>
   <h1>
       Cybersecurity 01 - Insecure Security UX Demos<br />
   </h1>
